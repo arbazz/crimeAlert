@@ -1,0 +1,54 @@
+{
+  "expo": {
+    "name": "crime_alert",
+    "slug": "crimealert",
+    "privacy": "public",
+    "sdkVersion": "34.0.0",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "extra": {
+      "firebase": {
+        "apiKey": "AIzaSyCaogS_puBISFfxMMA9OlziGZlVZDN4SGo",
+        "authDomain": "crimeapp-1de4a.firebaseapp.com",
+        "databaseURL": "https://crimeapp-1de4a.firebaseio.com",
+        "projectId": "crimeapp-1de4a",
+        "storageBucket": "crimeapp-1de4a.appspot.com",
+        "messagingSenderId": "177868605711",
+        "appId": "1:177868605711:web:899f79eb6e8dd6db67967a"
+      },
+      "facebook": {
+        "appId": "1439610392836406"
+      }
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier":  "com.bacon.expo.crimealert",
+      "config": {
+        "googleSignIn": {
+          "reservedClientId": "com.googleusercontent.apps.177868605711-g08i9s1j6nkbjt07rtqm6436rnnmadak"
+        }
+      }
+    },
+    "android":{
+      "package": "com.bacon.expo.crimealert",
+      "googleServicesFile": "./google-services.json"
+    }
+  }
+}

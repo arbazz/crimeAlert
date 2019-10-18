@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "177868605711",
+    "firebase_url": "https://crimeapp-1de4a.firebaseio.com",
+    "project_id": "crimeapp-1de4a",
+    "storage_bucket": "crimeapp-1de4a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:177868605711:android:0e3adbec1b40516267967a",
+        "android_client_info": {
+          "package_name": "com.bacon.expo.crimealert"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "177868605711-rfkjpc7a3j1h5p2tk7ggbi18p5d49otm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBTfVSOhNBvWYqIdZxZoLYr7bdCTfQkk_s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "177868605711-rfkjpc7a3j1h5p2tk7ggbi18p5d49otm.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "177868605711-g08i9s1j6nkbjt07rtqm6436rnnmadak.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.bacon.expo.crimealert"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
